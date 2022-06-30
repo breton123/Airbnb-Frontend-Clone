@@ -6,6 +6,12 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    colors: {
+      "black": "#222222",
+      "gray": "#717171",
+      "red": "#FF385C",
+      "white": "#FFFFFF"
+    }
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 }

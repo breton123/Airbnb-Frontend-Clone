@@ -6,8 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@faker-js/faker": "^7.3.0",
     "next": "latest",
     "react": "18.1.0",
+    "react-daisyui": "^2.0.4",
     "react-dom": "18.1.0"
   },
   "devDependencies": {
